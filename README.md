@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 - Penguin Statistics
-  - GitHub Organization: ([github.com/penguin-statistics](https://github.com/penguin-statistics))
+  - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
   - Production Website: https://penguin-stats.io
 - X Academy
   - Portal: https://my.xacademy.cc
