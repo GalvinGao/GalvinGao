@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 
 [![](https://count.getloli.com/get/@GalvinGao?theme=rule34)](#)
 
-[![](https://github-readme-stats-galvingao.vercel.app/api/top-langs/?username=GalvinGao&count_private=true&layout=compact)](#)
+[![](https://github-readme-stats-galvingao.vercel.app/api/top-langs/?username=GalvinGao&count_private=true&layout=compact&theme=github_dark&hide_border=true)](#)
 
