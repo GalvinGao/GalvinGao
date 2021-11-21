@@ -1,20 +1,13 @@
 ### Hi there 👋
 
 <!--
-**GalvinGao/GalvinGao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  > Ola! Glad you've reached here! I want to make friends
+  > who is like you that loves exploring! Why not go
+  > follow some of my social accounts, or just shoot me
+  > an email at me@galvingao.com?
+  > In advance, nice to meet you! ;D
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
@@ -28,11 +21,14 @@ Here are some ideas to get you started:
   - Portal: https://my.xacademy.cc
   - Quick Start: https://guide.xacademy.cc
 - Wartime Aide: https://wartimeaide.org
+- A social app. Not quite wanna disclose it yet :D
 - Planning my future
 
 ## 🌱 I’m currently learning
 - TypeScript https://typescriptlang.org
 - React https://reactjs.org
+- Unity https://learn.unity.com
+- Beego https://beego.vip
 - Swift & iOS App Development https://developer.apple.com
 - In-house made DOM SSR solutions
 - こんにちわ！I'm currently studying `ja_JP`
