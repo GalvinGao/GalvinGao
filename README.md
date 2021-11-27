@@ -11,8 +11,6 @@
 -->
 
 
-
-
 ## 🔭 I’m currently working on
 - Penguin Statistics
   - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
@@ -26,12 +24,14 @@
 
 ## 🌱 I’m currently learning
 - TypeScript https://typescriptlang.org
+- Rust https://rust-lang.org
 - React https://reactjs.org
 - Unity https://learn.unity.com
-- Beego https://beego.vip
+- Fiber https://gofiber.io
 - Swift & iOS App Development https://developer.apple.com
-- In-house made DOM SSR solutions
 - こんにちわ！I'm currently studying `ja_JP`
+
+<!-- 
 
 ## 🤔 I’m looking for help with
 - React performance optimization guides
@@ -42,6 +42,7 @@
 - UI Advises
 - Animation & Haptics Feedback design
 
+-->
 
 ---
 
