@@ -8,6 +8,10 @@
   > an email at me@galvingao.com?
   > In advance, nice to meet you! ;D
 
+  > Oh and I'm currently working in a startup that sets up
+  > the infrastructure of a virtual social network meant
+  > for the future. Shoot me a resume if you are interested! :heart:
+
 -->
 
 
@@ -30,19 +34,6 @@
 - Fiber https://gofiber.io
 - Swift & iOS App Development https://developer.apple.com
 - こんにちわ！I'm currently studying `ja_JP`
-
-<!-- 
-
-## 🤔 I’m looking for help with
-- React performance optimization guides
-- Tips for iOS compatibility tests
-- Animes & Comics to watch
-
-## 💬 Ask me about
-- UI Advises
-- Animation & Haptics Feedback design
-
--->
 
 ---
 
