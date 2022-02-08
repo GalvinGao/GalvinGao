@@ -26,25 +26,24 @@
 - A social app. Not quite wanna disclose it yet :D
 - Planning my future
 
-## 🌱 I’m currently learning
-- TypeScript https://typescriptlang.org
+## 🌱 I’m _currently_ learning
 - Rust https://rust-lang.org
 - React https://reactjs.org
 - Unity https://learn.unity.com
 - Fiber https://gofiber.io
-- Blender https://blender.org/
-- Swift & iOS App Development https://developer.apple.com
+- Blender https://blender.org
+- Android App Development https://developer.android.com
 - こんにちわ！I'm currently studying `ja_JP`
 
 ## I'm a big fan of
-- Blender
-- React
-- Vue
-- Arknights
-- Genshin Impact
-- TypeScript
-- iOS
-- Material Design
+- Blender https://blender.org
+- React https://reactjs.org
+- Vue https://vuejs.org
+- Arknights https://arknights.global
+- Genshin Impact https://genshin.mihoyo.com
+- TypeScript https://typescriptlang.org
+- Swift & iOS App Development https://developer.apple.com
+- Material Design https://material.io
 
 ---
 
