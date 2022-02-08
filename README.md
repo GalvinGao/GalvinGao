@@ -32,12 +32,23 @@
 - React https://reactjs.org
 - Unity https://learn.unity.com
 - Fiber https://gofiber.io
+- Blender https://blender.org/
 - Swift & iOS App Development https://developer.apple.com
 - こんにちわ！I'm currently studying `ja_JP`
 
+## I'm a big fan of
+- Blender
+- React
+- Vue
+- Arknights
+- Genshin Impact
+- TypeScript
+- iOS
+- Material Design
+
 ---
 
-[![](https://count.getloli.com/get/@GalvinGao?theme=rule34)](#)
+[![42](https://count.getloli.com/get/@GalvinGao?theme=rule34)](#)
 
-[![](https://github-readme-stats-galvingao.vercel.app/api/top-langs/?username=GalvinGao&count_private=true&layout=compact&theme=github_dark&hide_border=true)](#)
+[![42](https://github-readme-stats-galvingao.vercel.app/api/top-langs/?username=GalvinGao&count_private=true&layout=compact&theme=github_dark&hide_border=true)](#)
 
