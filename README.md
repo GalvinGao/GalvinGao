@@ -36,7 +36,7 @@
 - こんにちわ！I'm currently studying `ja_JP`
 
 ## I'm a big fan of
-- Blender https://blender.org
+- Blender (and Blender Foundation) https://blender.org
 - React https://reactjs.org
 - Vue 3 https://vuejs.org
 - Arknights https://arknights.global
