@@ -16,14 +16,14 @@
 
 
 ## 🔭 I’m currently working on
-- Penguin Statistics
+- Penguin Statistics, as a core maintainer for backend, frontend and DevOps.
   - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
   - Production Website: https://penguin-stats.io
-- X Academy
+- X Academy, as a core maintainer for (nearly) everything.
   - Portal: https://my.xacademy.cc
   - Quick Start: https://guide.xacademy.cc
-- Wartime Aide: https://wartimeaide.org
-- A social app. Not quite wanna disclose it yet :D
+- Wartime Aide, as a frontend contributor: https://wartimeaide.org
+- Workjng in a startup making the world better <!-- or, making a better world. -->
 - Planning my future
 
 ## 🌱 I’m _currently_ learning
@@ -38,7 +38,7 @@
 ## I'm a big fan of
 - Blender https://blender.org
 - React https://reactjs.org
-- Vue https://vuejs.org
+- Vue 3 https://vuejs.org
 - Arknights https://arknights.global
 - Genshin Impact https://genshin.mihoyo.com
 - TypeScript https://typescriptlang.org
