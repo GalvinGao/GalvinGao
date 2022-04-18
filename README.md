@@ -25,7 +25,7 @@
   - Portal: https://my.xacademy.cc
   - Quick Start: https://guide.xacademy.cc
 - Wartime Aide, as a frontend contributor: https://wartimeaide.org
-- Working in a startup making the world better <!-- or, making a better world. -->
+- Working in a startup, making a world <!-- or, making a better world. -->
 - Planning my future
 
 ## 🌱 I’m _currently_ learning
