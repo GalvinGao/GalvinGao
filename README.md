@@ -32,7 +32,6 @@
 - Rust https://rust-lang.org
 - React https://reactjs.org
 - Unity https://learn.unity.com
-- Fiber https://gofiber.io
 - Blender https://blender.org
 - Android App Development https://developer.android.com
 - Apple (iOS, iPadOS, watchOS & macOS) Development https://developer.apple.com/
@@ -43,7 +42,7 @@
 - React https://reactjs.org
 - Vue 3 https://vuejs.org
 - Arknights https://arknights.global
-- Genshin Impact https://genshin.mihoyo.com
+- Genshin Impact https://genshin.hoyoverse.com
 - TypeScript https://typescriptlang.org
 - Swift & iOS App Development https://developer.apple.com
 - Material Design https://material.io
