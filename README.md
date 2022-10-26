@@ -21,35 +21,47 @@
 - Penguin Statistics, as a core maintainer for backend, frontend and DevOps.
   - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
   - Production Website: https://penguin-stats.io
-- X Academy, as a core maintainer for (nearly) everything.
-  - Portal: https://my.xacademy.cc
-  - Quick Start: https://guide.xacademy.cc
+- DipCode, a computer science club at Franklin and Marshall College: https://dipcode.org
 - Wartime Aide, as a frontend contributor: https://wartimeaide.org
-- Working in a startup, making a world <!-- or, making a better world. -->
+- Part-time in a startup, making a world <!-- or, making a better world. -->
 - Planning my future
 
-## 🌱 I’m _currently_ learning
+## 🕰 I _was_ working on
+- X Academy, previously as a core maintainer for (nearly) everything.
+  - Portal: https://my.xacademy.cc
+  - Quick Start Guidebook: https://guide.xacademy.cc
+
+## 🌱 I’m currently learning
 - Rust https://rust-lang.org
 - React https://reactjs.org
 - Unity https://learn.unity.com
 - Blender https://blender.org
 - Android App Development https://developer.android.com
-- Apple (iOS, iPadOS, watchOS & macOS) Development https://developer.apple.com/
+- Apple (iOS, iPadOS, watchOS & macOS) Development https://developer.apple.com
 - こんにちわ！I'm currently studying `ja_JP`
 
-## I'm a big fan of
+## 🛝 I'm currently having fun with
+- Elixir https://elixir-lang.org
+- .NET https://learn.microsoft.com/en-us/dotnet/
+- C++ https://en.cppreference.com/w/
+- Stable Diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+## 🥰 I'm in love with
+### Development & Creativity
 - Blender (and Blender Foundation) https://blender.org
 - React https://reactjs.org
 - Vue 3 https://vuejs.org
-- Arknights https://arknights.global
-- Genshin Impact https://genshin.hoyoverse.com
 - TypeScript https://typescriptlang.org
 - Swift & iOS App Development https://developer.apple.com
 - Material Design https://material.io
 
+### Entertainment
+- Arknights https://arknights.global
+- Genshin Impact https://genshin.hoyoverse.com
+- Songs by Porter Robinson https://porterrobinson.com
+- 9-nine- https://9-nine-project.com
+- Ever17 https://vndb.org/v17
+
 ---
 
 [![42](https://count.getloli.com/get/@GalvinGao?theme=rule34)](#)
-
-[![42](https://github-readme-stats-galvingao.vercel.app/api/top-langs/?username=GalvinGao&count_private=true&layout=compact&theme=github_dark&hide_border=true)](#)
-
