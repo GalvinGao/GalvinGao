@@ -1,4 +1,4 @@
-> [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is foundamental to who we are - a creature named human, a society named humanity.
+> [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) is fundamental to who we are - a creature named human, a society named humanity.
 
 ### Hi there 👋
 
