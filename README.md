@@ -64,4 +64,4 @@
 
 ---
 
-[![42](https://count.getloli.com/get/@GalvinGao?theme=rule34)](#)
+[![42](https://hits.imgg.dev/GalvinGao:home?theme=gelbooru)](#)
