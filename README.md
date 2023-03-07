@@ -64,4 +64,4 @@
 
 ---
 
-[![42](https://hits.imgg.dev/GalvinGao:home?theme=gelbooru)](#)
+[![42](https://hits.imgg.dev/GalvinGao:home?theme=gelbooru&render=pixelated)](#)
