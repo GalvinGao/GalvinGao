@@ -38,7 +38,7 @@
 - Blender https://blender.org
 - Android App Development https://developer.android.com
 - Apple (iOS, iPadOS, watchOS & macOS) Development https://developer.apple.com
-- こんにちわ！I'm currently studying `ja_JP`
+- こんばんは！I'm currently studying `ja_JP`
 
 ## 🛝 I'm currently having fun with
 - Elixir https://elixir-lang.org
