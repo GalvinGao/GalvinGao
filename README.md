@@ -10,10 +10,6 @@
   > an email at me@galvingao.com?
   > In advance, nice to meet you! ;D
 
-  > Oh and I'm currently working in a startup that sets up
-  > the infrastructure of a virtual social network meant
-  > for the future. Shoot me a resume if you are interested! :heart:
-
 -->
 
 
@@ -21,35 +17,38 @@
 - Penguin Statistics, as a core maintainer for backend, frontend and DevOps.
   - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
   - Production Website: https://penguin-stats.io
-- DipCode, a computer science club at Franklin and Marshall College: https://dipcode.org
-- Wartime Aide, as a frontend contributor: https://wartimeaide.org
-- Part-time in a startup, making a world <!-- or, making a better world. -->
-- Planning my future
-
-## 🕰 I _was_ working on
 - X Academy, previously as a core maintainer for (nearly) everything.
   - Portal: https://my.xacademy.cc
   - Quick Start Guidebook: https://guide.xacademy.cc
+- Polishing some ideas
+- Planning my future
+
+## 🕰 I _was_
+- The President and Founder of DipCode, the computer science club at Franklin and Marshall College: https://dipcode.org
+- The frontend maintainer at Wartime Aide: https://wartimeaide.org
+- The development leader at `wuhan.support`, an organization that helped people affected by COVID-19 from Day 1 of the pandemic: https://github.com/wuhan-support/wuhan.support
 
 ## 🌱 I’m currently learning
 - Rust https://rust-lang.org
-- React https://reactjs.org
 - Unity https://learn.unity.com
 - Blender https://blender.org
-- Android App Development https://developer.android.com
 - Apple (iOS, iPadOS, watchOS & macOS) Development https://developer.apple.com
 - こんにちは！I'm currently studying `ja_JP`
+
+## 🪡 I've done a decent amount of work related to
+- Web Dev: React https://react.dev & Vue 2 https://v2.vuejs.org/ via TypeScript https://typescriptlang.org
+- Video Production: Premiere Pro, After Effects, Cinema 4D & DaVinci Resolve.
 
 ## 🛝 I'm currently having fun with
 - Elixir https://elixir-lang.org
 - .NET https://learn.microsoft.com/en-us/dotnet/
 - C++ https://en.cppreference.com/w/
 - Stable Diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- `langchain` https://github.com/hwchase17/langchain
 
 ## 🥰 I'm in love with
 ### Development & Creativity
-- Blender (and Blender Foundation) https://blender.org
-- React https://reactjs.org
+- Blender (and of course obviously Blender Foundation) https://blender.org
 - Vue 3 https://vuejs.org
 - TypeScript https://typescriptlang.org
 - Swift & iOS App Development https://developer.apple.com
@@ -61,6 +60,8 @@
 - Songs by Porter Robinson https://porterrobinson.com
 - 9-nine- https://9-nine-project.com
 - Ever17 https://vndb.org/v17
+
+Thanks for stopping by! 🥰
 
 ---
 
