@@ -65,4 +65,4 @@ Thanks for stopping by! 🥰
 
 ---
 
-[![42](https://hits.imgg.dev/GalvinGao:home?theme=gelbooru&render=pixelated)](#)
+[![Moe Counter](https://hits.imgg.dev/GalvinGao:home?theme=rule34&render=pixelated)](#)
