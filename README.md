@@ -20,11 +20,11 @@
 - X Academy, previously as a core maintainer for (nearly) everything.
   - Portal: https://my.xacademy.cc
   - Quick Start Guidebook: https://guide.xacademy.cc
+- DipCode, the computer science club at Franklin and Marshall College as the founder and president: https://dipcode.org
 - Polishing some ideas
 - Planning my future
 
 ## 🕰 I _was_
-- The President and Founder of DipCode, the computer science club at Franklin and Marshall College: https://dipcode.org
 - The frontend maintainer at Wartime Aide: https://wartimeaide.org
 - The development leader at `wuhan.support`, an organization that helped people affected by COVID-19 from Day 1 of the pandemic: https://github.com/wuhan-support/wuhan.support
 
