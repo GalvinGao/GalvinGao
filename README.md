@@ -20,8 +20,7 @@
 - X Academy, previously as a core maintainer for (nearly) everything.
   - Portal: https://my.xacademy.cc
   - Quick Start Guidebook: https://guide.xacademy.cc
-- Polishing some ideas
-- Planning my future
+- An AI Image Generation product from a startup, as frontend, backend & DevOps. Due to its nature I prefer not to disclose the exact product, but we are receiving unprecedented traffic on a daily basis.
 
 ## 🕰 I _was_
 - The frontend maintainer at Wartime Aide: https://wartimeaide.org
@@ -40,11 +39,8 @@
 - Video Production: Premiere Pro, After Effects, Cinema 4D & DaVinci Resolve.
 
 ## 🛝 I'm currently having fun with
-- Elixir https://elixir-lang.org
-- .NET https://learn.microsoft.com/en-us/dotnet/
-- C++ https://en.cppreference.com/w/
 - Stable Diffusion https://github.com/AUTOMATIC1111/stable-diffusion-webui
-- `langchain` https://github.com/hwchase17/langchain
+- Developing a GraphQL API with Go https://github.com/penguin-statistics/roguestats-backend
 
 ## 🥰 I'm in love with
 ### Development & Creativity
