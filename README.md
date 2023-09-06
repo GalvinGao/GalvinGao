@@ -17,10 +17,20 @@
 - Penguin Statistics, as a core maintainer for backend, frontend and DevOps.
   - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
   - Production Website: https://penguin-stats.io
+- MaaAssistantArknights, as a core team member
+  - GitHub Organization: [github.com/MaaAssistantArknights](https://github.com/MaaAssistantArknights)
+  - Official Website: https://maa.plus
+  - Preprogrammed Copilot Editor & Community Site: https://prts.plus
 - X Academy, previously as a core maintainer for (nearly) everything.
   - Portal: https://my.xacademy.cc
   - Quick Start Guidebook: https://guide.xacademy.cc
-- An AI Image Generation product from a startup, as frontend, backend & DevOps. Due to its nature I prefer not to disclose the exact product, but we are receiving unprecedented traffic on a daily basis.
+- HyperEX, as a senior developer
+  - Flowith: https://flowith.cc
+  - Mirro: https://mirroai.com
+- [gofiber/fiber](https://github.com/gofiber/fiber), as a contributor
+- [Snownight 雪夜 (duiteam/snownight)](https://github.com/duiteam/snownight), a game that has entered as a semi-finalist competitor in the 2023 Tencent College Game Creative Production Competition.
+- [Rooms (duiteam/rooms)](https://github.com/duiteam/rooms), a game for `duiteam` with the goal to solidify our understanding towards a streamlined process of producing a game product.
+- An AI Image Generation product from a startup, as frontend, backend & DevOps. Due to its nature, I prefer not to disclose the exact product, but we are receiving unprecedented traffic on a daily basis.
 
 ## 🕰 I _was_
 - The frontend maintainer at Wartime Aide: https://wartimeaide.org
