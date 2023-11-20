@@ -14,7 +14,7 @@
 
 
 ## 🔭 I’m currently working on
-- Penguin Statistics, as a core maintainer for backend, frontend and DevOps.
+- Penguin Statistics, as co-founder & core maintainer for backend, frontend and DevOps.
   - GitHub Organization: [github.com/penguin-statistics](https://github.com/penguin-statistics)
   - Production Website: https://penguin-stats.io
 - MaaAssistantArknights, as a core team member
@@ -24,7 +24,7 @@
 - X Academy, previously as a core maintainer for (nearly) everything.
   - Portal: https://my.xacademy.cc
   - Quick Start Guidebook: https://guide.xacademy.cc
-- HyperEX, as a senior developer
+- Hyper, as a senior developer
   - Flowith: https://flowith.cc
   - Mirro: https://mirroai.com
 - [gofiber/fiber](https://github.com/gofiber/fiber), as a contributor
@@ -42,10 +42,13 @@
 - Unity https://learn.unity.com
 - Blender https://blender.org
 - Apple (iOS, iPadOS, watchOS & macOS) Development https://developer.apple.com
+- PyTorch (& Transformer) https://pytorch.org
 - こんにちは！I'm currently studying `ja_JP`
 
 ## 🪡 I've done a decent amount of work related to
-- Web Dev: React https://react.dev & Vue 2 https://v2.vuejs.org/ via TypeScript https://typescriptlang.org
+- Web Frontend: React https://react.dev via TypeScript https://typescriptlang.org & Vue 2 https://v2.vuejs.org/
+- Web Backend: Go https://go.dev via Fiber https://gofiber.io & PostgreSQL https://postgresql.org
+- DevOps: ArgoCD & Argo Rollouts [org/argoproj](https://github.com/argoproj) & Kubernetes https://k8s.io
 - Video Production: Premiere Pro, After Effects, Cinema 4D & DaVinci Resolve.
 
 ## 🛝 I'm currently having fun with
