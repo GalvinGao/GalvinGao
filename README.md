@@ -16,15 +16,17 @@
 ## 🔭 I’m currently...
 - In an AI startup, leading a team and building the next impact.
 - [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. Planned alpha testing before C105.
-- [音ゲーナビ](https://github.com/otogenavi), an app helping you to find the closest rhythm game arcade. Under closed beta.
-- [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Maintenance mode.
+- [音ゲーナビ](https://github.com/otogenavi), an iOS native app helping you to find the closest rhythm game arcade. Under closed beta.
+- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX webapp toolbox.
+- [イーカケル](https://github.com/ekakeru), a チケット抽選当落結果統計サイト.
+- [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Current under maintenance mode.
 - [MaaAssistantArknights](https://github.com/MaaAssistantArknights), as a core team member.
   - Website: https://maa.plus
   - Workflows & Editor: https://prts.plus
 
 ## 🕰 I _was_
-- The development leader at [`wuhan.support`](https://github.com/wuhan-support/wuhan.support), an organization that helped people affected by COVID-19 from Day 1 of the pandemic
-- The president of [DipCode](https://dipcode.org), *the* Computer Science club at Franklin and Marshall College
+- The development leader at [`wuhan.support`](https://github.com/wuhan-support/wuhan.support), an organization that helped people affected by COVID-19 from Day 1 of the pandemic. Organization has become inactive since then.
+- The president of [DipCode](https://dipcode.org), *the* Computer Science club at Franklin and Marshall College. I'm no longer at F&M.
 
 ## 🪡 I've done a decent amount of work related to
 - Web Frontend: [React](https://react.dev) via [TypeScript](https://typescriptlang.org)
