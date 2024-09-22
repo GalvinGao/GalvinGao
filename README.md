@@ -17,7 +17,7 @@
 - In an AI startup, leading a team and building the next impact.
 - [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. Planned alpha testing before C105.
 - [音ゲーナビ](https://github.com/otogenavi), an iOS native app helping you to find the closest rhythm game arcade. Under closed beta.
-- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX webapp toolbox.
+- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp.
 - [イーカケル](https://github.com/ekakeru), a チケット抽選当落結果統計サイト.
 - [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Current under maintenance mode.
 - [MaaAssistantArknights](https://github.com/MaaAssistantArknights), as a core team member.
