@@ -13,13 +13,14 @@
 -->
 
 
-## 🔭 I’m currently working on
-- An AI Image/Video Generator from a startup, as Frontend, Backend & DevOps. Call it full-stack if you'd like.
-- [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps.
-- [MaaAssistantArknights](https://github.com/MaaAssistantArknights), as a core team member
+## 🔭 I’m currently...
+- In an AI startup, leading a team and building the next impact.
+- [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. Planned alpha testing before C105.
+- [音ゲーナビ](https://github.com/otogenavi), an app helping you to find the closest rhythm game arcade. Under closed beta.
+- [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Maintenance mode.
+- [MaaAssistantArknights](https://github.com/MaaAssistantArknights), as a core team member.
   - Website: https://maa.plus
   - Workflows & Editor: https://prts.plus
-- [gofiber/fiber](https://github.com/gofiber/fiber), as a contributor
 
 ## 🕰 I _was_
 - The development leader at [`wuhan.support`](https://github.com/wuhan-support/wuhan.support), an organization that helped people affected by COVID-19 from Day 1 of the pandemic
