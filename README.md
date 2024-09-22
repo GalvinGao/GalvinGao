@@ -13,8 +13,8 @@
 -->
 
 
-## 🔭 I’m currently...
-- In an AI startup, leading a team and building the next impact.
+## 🔭 I’m currently working on...
+- Leading a team and building the next impact in an AI startup.
 - [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. Planned alpha testing before C105.
 - [音ゲーナビ](https://github.com/otogenavi), an iOS native app helping you to find the closest rhythm game arcade. Under closed beta.
 - [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp.
