@@ -33,7 +33,7 @@
 
 ## 🪡 I've done a decent amount of work related to
 - Web Frontend: [React](https://react.dev) via [TypeScript](https://typescriptlang.org)
-- Web Backend: [Go](https://go.dev) via [Fiber](https://gofiber.io) & [PostgreSQL](https://postgresql.org)
+- Web Backend: [Go](https://go.dev) via [Fiber](https://gofiber.io), [TypeScript](https://typescriptlang.org), [PostgreSQL](https://postgresql.org)
 - DevOps: [ArgoCD](https://github.com/argoproj/argo-cd) & [Argo Rollouts](https://argoproj.github.io/rollouts/) & [Kubernetes](https://k8s.io)
 - Video Production: Premiere Pro, After Effects, Cinema 4D & DaVinci Resolve.
 
