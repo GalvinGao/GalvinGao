@@ -41,4 +41,4 @@ Thanks for stopping by! 🥰
 
 ---
 
-[![Moe Counter](https://hits.imgg.dev/GalvinGao:home?theme=rule34&render=pixelated)](#)
+[![Moe Counter](https://hits.imgg.dev/GalvinGao:home?theme=rule34&render=pixelated)](https://hits.imgg.dev/GalvinGao:home?theme=rule34&render=pixelated)
