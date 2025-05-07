@@ -17,9 +17,6 @@
 - [音ゲーナビ](https://github.com/otogenavi), an iOS native app helping you to find the closest rhythm game arcade. Under closed beta.
 - [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp with 15K+ MAU and growing.
 - [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Current under maintenance mode.
-- [MaaAssistantArknights](https://github.com/MaaAssistantArknights), as a core team member.
-  - Website: https://maa.plus
-  - Workflows & Editor: https://prts.plus
 
 ## Procrastinating/-ed Projects...
 - [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. Planned alpha testing before C105. Only got MVP done.
@@ -30,6 +27,9 @@
 ## 🕰 I _was_
 - The development leader at [`wuhan.support`](https://github.com/wuhan-support/wuhan.support), an organization that helped people affected by COVID-19 from Day 1 of the pandemic. Organization has become inactive since then.
 - The president of [DipCode](https://dipcode.org), *the* Computer Science club at Franklin and Marshall College. I'm no longer at F&M.
+- [MaaAssistantArknights](https://github.com/MaaAssistantArknights), as a core team member. Due to questionable monetization strategies, I decided to cease all development efforts towards the project until it comes back as a true open-source / freeware project.
+  - Website: https://maa.plus
+  - Workflows & Editor: https://prts.plus
 
 ## 🪡 I've done a decent amount of work related to
 - Web Frontend: [React](https://react.dev) via [TypeScript](https://typescriptlang.org)
