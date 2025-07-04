@@ -15,7 +15,7 @@
 ## 🔭 I’m currently working on...
 - Leading a team and building the next impact in an AI startup.
 - [音ゲーナビ](https://github.com/otogenavi), an iOS native app helping you to find the closest rhythm game arcade. Under closed beta.
-- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp with 15K+ MAU and growing.
+- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp with 40K+ MAU and growing.
 - [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Current under maintenance mode.
 
 ## Procrastinating/-ed Projects...
