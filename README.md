@@ -14,12 +14,11 @@
 
 ## 🔭 I’m currently working on...
 - Leading a team and building the next impact in an AI startup.
-- [音ゲーナビ](https://github.com/otogenavi), an iOS native app helping you to find the closest rhythm game arcade. Under closed beta.
-- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp with 40K+ MAU and growing.
+- [DXRating](https://dxrating.net) ([org](https://github.com/gekichumai)), a maimai DX toolbox webapp + iOS app with 40K+ MAU and growing.
+- [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. https://testflight.apple.com/join/HrDC1xuC
 - [Penguin Statistics](https://penguin-stats.io) ([org](https://github.com/penguin-statistics)), as co-founder & core maintainer for backend, frontend and DevOps. Current under maintenance mode.
 
 ## Procrastinating/-ed Projects...
-- [コミナビ](https://github.com/cominavi), a non-official コミケ/Comiket plan & navigation iOS native app. Planned alpha testing before C105. Only got MVP done.
 - [イーカケル](https://github.com/ekakeru), a チケット抽選当落結果統計サイト. Just procrastinated.
 - [RotaenoKit](https://rotaeno.imgg.dev), a Rotaeno rating calculator. I don't play Rotaeno anymore.
 
